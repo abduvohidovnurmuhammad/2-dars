@@ -30,12 +30,17 @@ ul,ol{
 .header-logo{
   width: 236px;
 height: 26px;
+border: 2px solid transparent;
+}
+.header-logo:hover{
+border: 2px solid #000;
 }
 .header-list{
   display: flex;
 }
 .header-link{
   padding-right: 33px;
+  border: 2px solid transparent;
 }
 .header-link:not(1){
   padding-right: 33px;
@@ -91,4 +96,13 @@ color: #FEFCF7;
 padding: 15px 31px;
 background-color: #0E8784;
 border-radius: 6px;
+}
+.header-link:hover{
+  border: 2px solid #000;
+}
+.hero-main-link{
+  border: 2px solid transparent;
+}
+.hero-main-link:hover{
+  border: 2px solid #000;
 }

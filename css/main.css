@@ -6,13 +6,11 @@
 body{
   background-color: #F2F2F2;
 }
-header{
-  background-color: #FEFCF7; 
-}
 .container{
   width: 1280px;
   margin: 0 auto;
   padding-top: 20px;
+  background-color: #FEFCF7; 
 }
 a{
   text-decoration: none;
@@ -25,6 +23,7 @@ ul,ol{
   display: flex;
   justify-content: space-between;
   align-items: center;
+  padding-bottom: 43px;
 }
 .header-logo{
   width: 236px;
@@ -47,4 +46,11 @@ height: 26px;
   font-size: 12px;
   line-height: 15px;
   color: #83888F;
+}
+.hero{
+  background-color: #A2A2A2;
+  width: 1280px;
+height: 600px;
+left: 80px;
+top: 113px;
 }

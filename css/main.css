@@ -59,3 +59,23 @@ top: 113px;
 height: 367px;
 margin: 117px 702px 116px 85px;
 }
+.hero-task{
+  height: 145px;
+font-family: 'Fraunces 9pt';
+font-style: normal;
+font-weight: 900;
+font-size: 72px;
+line-height: 72px;
+color: #FEFCF7;
+margin-bottom: 32px;
+}
+.herotext{
+  width: 445px;
+  height: 78px;
+  font-weight: 400;
+font-size: 16px;
+line-height: 26px;
+color: #FEFCF7;
+opacity: 0.8;
+margin-bottom: 56px;
+}

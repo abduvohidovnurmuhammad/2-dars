@@ -2,4 +2,22 @@
   box-sizing: border-box;
   margin: 0;
   padding: 0;
-}gi
+}
+body{
+  position: relative;
+width: 1440px;
+background: #FEFCF7;
+padding: 0 80px;
+}
+.container{
+  width: 1320px;
+  margin: 0 auto;
+  padding: 20px;
+}
+a{
+  text-decoration: none;
+  display: inline-block;
+}
+ul,ol{
+  list-style: none;
+}

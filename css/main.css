@@ -6,8 +6,11 @@
 body{
   position: relative;
 width: 1440px;
-background: #FEFCF7;
+background: #F2F2F2;
 padding: 0 80px;
+}
+header{
+  background-color: #FEFCF7;
 }
 .container{
   width: 1320px;
@@ -20,4 +23,8 @@ a{
 }
 ul,ol{
   list-style: none;
+}
+.header-logo{
+  width: 236px;
+height: 26px;
 }
